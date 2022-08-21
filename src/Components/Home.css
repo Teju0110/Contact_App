@@ -1,0 +1,59 @@
+.home{
+    margin-left:70% ;
+    margin-top: 2%;
+}
+
+.addContact_BTN{
+    border-radius: 10px;
+    height:40px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.addContact_BTN:hover{
+    background-color: black;
+    color: white;
+}
+
+.contacts{
+    margin-left: 18%;
+    margin-top: 5%;
+}
+
+.contact_list{
+    padding: 10px;
+    width: 80%;
+}
+
+.contact_list_head{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    height: 40px;
+    
+}
+
+.contact_list_body>tr{ 
+    height:   60px ;
+    
+    
+}
+
+.contact_list_body>tr:hover{
+    background-color: rgb(219, 216, 216);
+}
+
+.contact_list_BTN{
+    height: 35px;
+    width: 80px;
+    margin: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+

@@ -1,0 +1,47 @@
+
+.editContact{
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.editContact_Text{
+    font-size: 250%;
+    align-items: center;
+    margin-left: 38%;
+}
+
+.editContact_form{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 25px;
+    margin-left: 25%;
+    width: 40%;
+    -webkit-box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.4);
+    box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.4);
+    
+}
+
+.editContact_Input{
+    height: 50px;
+    margin: 10px 50px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+editContact_form_BTNs{
+    display: flex;
+}
+
+.editContact_form_BTN{
+    margin: 10px 50px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+}
